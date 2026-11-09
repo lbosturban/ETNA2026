@@ -1,6 +1,6 @@
 [submodule "python-quizyfy"]
 	path = python-quizyfy
-	url = https://rendu-git.etna-alternance.net/module-10499/activity-56519/group-1084794/
+	url = https://github.com/lbosturban/python-quizyfy.git
 [submodule "vuejs-todomanager"]
 	path = vuejs-todomanager
 	url = https://rendu-git.etna-alternance.net/module-10592/activity-57656/group-1085634
