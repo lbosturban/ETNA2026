@@ -3,4 +3,4 @@
 	url = https://github.com/lbosturban/python-quizyfy.git
 [submodule "vuejs-todomanager"]
 	path = vuejs-todomanager
-	url = https://rendu-git.etna-alternance.net/module-10592/activity-57656/group-1085634
+	url = https://github.com/lbosturban/vuejs-todomanager.git
