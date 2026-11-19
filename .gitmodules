@@ -4,3 +4,6 @@
 [submodule "vuejs-todomanager"]
 	path = vuejs-todomanager
 	url = https://github.com/lbosturban/vuejs-todomanager.git
+[submodule "contact-crm"]
+	path = contact-crm
+	url = ssh://git@github.com/lbosturban/contact-crm.git
