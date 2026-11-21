@@ -7,3 +7,6 @@
 [submodule "contact-crm"]
 	path = contact-crm
 	url = ssh://git@github.com/lbosturban/contact-crm.git
+[submodule "erm"]
+	path = erm
+	url = ssh://git@github.com/lbosturban/erm.git
